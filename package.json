@@ -1,6 +1,6 @@
 {
   "name": "three-stupid-array-unique-func",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Oh...just like the package name, there are three stupid array uniquify functions.",
   "main": "Array-unique.js",
   "scripts": {
