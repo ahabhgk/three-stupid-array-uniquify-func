@@ -1,3 +1,5 @@
+const { proAjax } = require('./promisify-ajax.js')
+
 const setUniquer = arr => [...new Set(arr)]
 
 const forEachUniquer = (arr) => {
@@ -17,4 +19,5 @@ module.exports = {
   setUniquer,
   forEachUniquer,
   reduceUniquer,
+  proAjax,
 }
