@@ -1,0 +1,19 @@
+{
+  "name": "three-stupid-array-unique-func",
+  "version": "1.0.0",
+  "description": "Oh...just like the package name, there are three stupid array uniquify functions.",
+  "main": "Array-unique.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahabhgk/three-stupid-array-uniquify-func.git"
+  },
+  "author": "ahabhgk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahabhgk/three-stupid-array-uniquify-func/issues"
+  },
+  "homepage": "https://github.com/ahabhgk/three-stupid-array-uniquify-func#readme"
+}
