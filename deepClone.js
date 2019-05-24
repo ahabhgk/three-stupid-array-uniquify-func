@@ -1,7 +1,7 @@
 function deepClone(target) {
   // 基本类型拷贝
   if (!(target instanceof Object)) return target
-  
+
   // 引用类型拷贝
   const result = Array.isArray(target) ? [] : {}
 
